@@ -1,2 +1,2 @@
 # ffmpeg4
-FFmpeg4编译so文件。
+MAC FFmpeg4.3.1编译Android so文件。
